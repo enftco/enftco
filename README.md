@@ -1,5 +1,5 @@
 <h2 align="center"><samp>Hi!, I'm Taufiq From Indonesia</samp></h2><br><br>
-<h3 align="center"><samp>「 ❦ Frontend Developer 」</samp></h3>
+<h3 align="center"><samp>「 Frontend Developer 」</samp></h3>
 <p align="center">
   <samp>❝ Making extraordinary things for extraordinary people! ❞</samp>
 </p><br>
